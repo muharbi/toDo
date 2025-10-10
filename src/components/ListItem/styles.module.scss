@@ -1,0 +1,11 @@
+@import "../../styles/colors/colors.scss";
+
+.list_container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 490px;
+  width: 100%;
+  background-color: $color-light;
+  padding: 20px 20px;
+  border-radius: 5px;
+}
