@@ -10,5 +10,11 @@
   font-size: 28px;
   padding-bottom: 2px;  
   font-weight: 400;
- 
+  &:hover{
+    box-shadow: 0 0 5px black;
+    transition: all 0.2s ease;
+  }
+  &:active{
+    text-shadow: 0 0 5px black;
+  }
 }
