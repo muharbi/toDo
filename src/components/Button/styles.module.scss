@@ -1,0 +1,14 @@
+@import "../../styles/colors/colors.scss";
+
+.button {
+  max-width: 45px;
+  width: 100%;
+  background-color: $color-bolot;
+  color: white;
+  border-radius: 0 8px 8px 0;
+  cursor: pointer;
+  font-size: 28px;
+  padding-bottom: 2px;  
+  font-weight: 400;
+ 
+}

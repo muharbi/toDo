@@ -1,0 +1,9 @@
+@import "../../styles/colors/colors.scss";
+
+.input {
+  width: 205px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-right: none; // Убираем двойную границу
+  border-radius: 8px 0 0 8px;
+}
