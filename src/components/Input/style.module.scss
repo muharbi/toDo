@@ -6,4 +6,9 @@
   border: 1px solid #ccc;
   border-right: none; 
   border-radius: 8px 0 0 8px;
+  &:focus-visible{
+    background-color:$color-light;
+    box-shadow: 0 0 5px black;
+    
+  }
 }
